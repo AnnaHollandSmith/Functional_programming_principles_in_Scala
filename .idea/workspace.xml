@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd170a66-0990-4210-9d3e-cdfbc3098cac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/week_2/exercise2.sc" afterPath="$PROJECT_DIR$/practice/week_2/exercise2.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/week_2/exercise3.sc" afterPath="$PROJECT_DIR$/practice/week_2/exercise3.sc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/week_2/rationals.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="Functional_programming_principles_in_Scala.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,14 +58,24 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="330">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise3.sc" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rationals.sc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice/week_2/rationals.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise3.sc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice/week_2/exercise3.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -95,9 +106,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/practice/week_2/exercise.sc" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/practice/week_2/exercise2.sc" />
         <option value="$PROJECT_DIR$/practice/week_2/exercise3.sc" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/practice/week_2/exercise4.sc" />
+        <option value="$PROJECT_DIR$/practice/week_2/rationals.sc" />
       </list>
     </option>
   </component>
@@ -742,12 +755,12 @@
       <option name="presentableId" value="Default" />
       <updated>1484910577581</updated>
       <workItem from="1484910578801" duration="29000" />
-      <workItem from="1485514057938" duration="8095000" />
+      <workItem from="1485514057938" duration="10600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8124000" />
+    <option name="totallyTimeSpent" value="10629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="6" />
@@ -804,14 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/week_1/session.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -832,6 +837,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/week_2/exercise4.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/week_2/rationals.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
