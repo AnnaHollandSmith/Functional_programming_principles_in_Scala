@@ -1,10 +1,10 @@
 # Functional Programming Principles in Scala
 
-A repository to record my progress and any exercises completed through Coursera's Functional Programming Principles in Scala. 
+A repository to record my progress and any exercises completed through Coursera's Functional Programming Principles in Scala.
 
 
- **Progress:** 
- 
+ **Progress:**
+
 - [x] Week 1 Lectures
 	- [x] 1.1
 	- [x] 1.2
@@ -23,7 +23,7 @@ A repository to record my progress and any exercises completed through Coursera'
 	- [x] 2.3
 	- [x] 2.4
 	- [x] 2.5
-	- [ ] 2.6
+	- [x] 2.6
 	- [ ] 2.7
 - [ ] Week 2 Exercises
 	- [ ] 2.1
