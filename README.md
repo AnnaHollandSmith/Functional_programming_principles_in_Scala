@@ -24,7 +24,7 @@ A repository to record my progress and any exercises completed through Coursera'
 	- [x] 2.4
 	- [x] 2.5
 	- [x] 2.6
-	- [ ] 2.7
+	- [x] 2.7
 - [ ] Week 2 Exercises
 	- [ ] 2.1
   	- [ ] 2.2
